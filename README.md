@@ -6,7 +6,7 @@
 **Programming Language:** JAVA  
 **Objective:** Terminal Interface for Communication  
 **Grade:** 17/20  
-**Institute:** Instituto Superior Técnico
+**Institute:** Instituto Superior Técnico  
 **Year:** 2023
 
 ---
